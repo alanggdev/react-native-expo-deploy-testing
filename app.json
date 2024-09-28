@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app-notes",
+    "name": "App Testing :D",
     "slug": "app-notes",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.dev.alangomez.appnotes"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -30,7 +31,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "dd787645-c57b-4726-ae23-ea8b61715c15"
+        "projectId": "3e7b0fa3-bb68-4988-8ce9-83a399ac0043"
       }
     }
   }
